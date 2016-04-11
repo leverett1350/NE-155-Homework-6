@@ -7,6 +7,6 @@ The following programs will be associated with each problem as indicated:
 
 3-errorSolver2
 
-4-eigenVector
+4-eigenVector\\
   sor2 - only used as a function within the script for eigenVector
   
